@@ -1,2 +1,2 @@
 # ArewaDS-Fellowship
-This for submiting my assignment 
+This is for submiting my assignment 
